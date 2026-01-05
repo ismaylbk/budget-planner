@@ -2,6 +2,21 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.8.
 
+Application de gestion de budget personnel.
+
+## Fonctionnalités
+- Ajout des revenus
+- Ajout des dépenses
+- Calcul du solde
+- Visualisation simple
+
+## Technologies
+- HTML / CSS / JavaScript
+- (ou Angular / Java / etc selon ton projet)
+
+## Auteur
+Ismail Bakir
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
